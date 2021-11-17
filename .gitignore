@@ -1,0 +1,8 @@
+command_log.txt
+*pyc
+*txt
+*json
+/data
+/lib/db
+runtime.sh
+lib/bot/token.0
